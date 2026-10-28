@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ===============================
+   BOOKED DATES CALENDAR STYLE
+   =============================== */
+
+.booked-date {
+    background-color: #fecaca !important;
+    color: #991b1b !important;
+    border-radius: 50%;
+}

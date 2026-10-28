@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36f0cfbf.css",
+    "main.js": "/static/js/main.bf5af003.js",
+    "static/media/resort3.jpeg": "/static/media/resort3.189a36bf52526ec0793c.jpeg",
+    "static/media/deluxe-1.jpg": "/static/media/deluxe-1.b9fdc76cf7746c1c4800.jpg",
+    "static/media/deluxe-2.jpg": "/static/media/deluxe-2.dd5b0b96f03b73b75a55.jpg",
+    "static/media/hero3.jpeg": "/static/media/hero3.e03206a2194500fa0cc9.jpeg",
+    "static/media/kirala island.jpg": "/static/media/kirala island.44c16962a86b78aceda4.jpg",
+    "static/media/hero.jpg": "/static/media/hero.cd9cab7780acc748fd02.jpg",
+    "static/media/accomadation.jpg": "/static/media/accomadation.66e87a7bc0d59066173e.jpg",
+    "static/media/deluxe-3.jpg": "/static/media/deluxe-3.990fb79aa639ef508455.jpg",
+    "static/media/deluxe-4.jpeg": "/static/media/deluxe-4.5a139588be6e80e6495d.jpeg",
+    "static/media/bolgoda lake.jpg": "/static/media/bolgoda lake.7b96fe576c2e06aeed18.jpg",
+    "static/media/LunawaBeachhero.jpg": "/static/media/LunawaBeachhero.9dfc58e06232ee6addaf.jpg",
+    "static/media/gallery1.jpg": "/static/media/gallery1.e40f5b53dbdcb12e3eaf.jpg",
+    "static/media/hero1.jpeg": "/static/media/hero1.4b132575cfdca84c275a.jpeg",
+    "static/media/BolgodaLakeHero.jpg": "/static/media/BolgodaLakeHero.fa6854abd78395af9c58.jpg",
+    "static/media/hero2.jpeg": "/static/media/hero2.162a1be6dfc56718db0c.jpeg",
+    "static/media/KiralaIslandhero.jpg": "/static/media/KiralaIslandhero.55bd2e44c187ee886926.jpg",
+    "static/media/logo.jpeg": "/static/media/logo.2bab39e2e1213317ea37.jpeg",
+    "static/media/Cocktail.jpg": "/static/media/Cocktail.de2f8392174067e91070.jpg",
+    "static/media/gallery5.jpeg": "/static/media/gallery5.b0b016449b75528539a4.jpeg",
+    "static/media/gallery4.jpeg": "/static/media/gallery4.81daf4978a167be448d8.jpeg",
+    "static/media/gallery1.jpeg": "/static/media/gallery1.72db185804871c5eb3d2.jpeg",
+    "static/media/lunawa Beach.jpg": "/static/media/lunawa Beach.f2ccb3e8493c816a06ad.jpg",
+    "static/media/gallery2.jpeg": "/static/media/gallery2.360a3310378c6f8a832c.jpeg",
+    "static/media/vision-bg.jpeg": "/static/media/vision-bg.5ba343f082ed5417146f.jpeg",
+    "static/media/gallery3.jpeg": "/static/media/gallery3.ee4a0e06aee017ab47a8.jpeg",
+    "static/media/hero4.jpeg": "/static/media/hero4.c4524c8556261bc03522.jpeg",
+    "static/media/whatsapp.png": "/static/media/whatsapp.64213343e98a002f1f0c.png",
+    "index.html": "/index.html",
+    "main.36f0cfbf.css.map": "/static/css/main.36f0cfbf.css.map",
+    "main.bf5af003.js.map": "/static/js/main.bf5af003.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36f0cfbf.css",
+    "static/js/main.bf5af003.js"
+  ]
+}
