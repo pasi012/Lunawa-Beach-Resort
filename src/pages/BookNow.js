@@ -43,9 +43,10 @@ const ROOM_DETAILS = {
         description: "Comfortable air-conditioned standard room.",
     },
     "706": {
-        roomType: "Standard AC Room",
-        price: 6000,
-        description: "Comfortable air-conditioned standard room.",
+        roomType: "Special Sea View AC Room",
+        price: 7500,
+        description:
+            "Private balcony, sea view, tea and milk tea facilities.",
     },
     "707": {
         roomType: "Special Sea View AC Room",
@@ -490,7 +491,7 @@ function BookNow() {
                             </h3>
 
                             <p className="mt-2 text-gray-600">
-                                Rooms 701, 702, 703, 704, 705 and 706.
+                                Rooms 701, 702, 703, 704 and 705.
                             </p>
 
                             <p className="mt-4 text-2xl font-bold text-[#00A6C7]">
@@ -501,15 +502,18 @@ function BookNow() {
                             </p>
                         </div>
 
-                        {/* SPECIAL ROOM */}
+                        {/* SPECIAL ROOMS */}
                         <div className="rounded-xl border border-gray-200 bg-white p-6 shadow-sm">
                             <h3 className="text-xl font-semibold text-gray-800">
-                                Special Sea-View AC Room 707
+                                Special Sea-View AC Rooms
                             </h3>
 
                             <p className="mt-2 text-gray-600">
-                                Private balcony, sea view, tea and milk tea
-                                facilities.
+                                Rooms 706 and 707.
+                            </p>
+
+                            <p className="mt-2 text-gray-600">
+                                Private balcony, sea view, tea and milk tea facilities.
                             </p>
 
                             <p className="mt-4 text-2xl font-bold text-[#00A6C7]">
@@ -560,8 +564,8 @@ function BookNow() {
 
                                     return (
                                         <option key={number} value={number}>
-                                            Room {number} - {room.roomType} -
-                                            Rs. {room.price.toLocaleString()}/day
+                                            Room {number} - {room.roomType} - Rs.{" "}
+                                            {room.price.toLocaleString()}/day
                                         </option>
                                     );
                                 })}
@@ -569,8 +573,7 @@ function BookNow() {
 
                             <div className="mt-3 rounded-lg bg-cyan-50 p-4">
                                 <p className="font-semibold text-gray-800">
-                                    Room {formData.roomNumber} -{" "}
-                                    {selectedRoom.roomType}
+                                    Room {formData.roomNumber} - {selectedRoom.roomType}
                                 </p>
 
                                 <p className="mt-1 text-sm text-gray-600">
@@ -578,17 +581,16 @@ function BookNow() {
                                 </p>
 
                                 <p className="mt-2 font-bold text-[#00A6C7]">
-                                    Rs. {selectedRoom.price.toLocaleString()}{" "}
-                                    per day
+                                    Rs. {selectedRoom.price.toLocaleString()} per day
                                 </p>
 
                                 {formData.arrival && formData.departure && (
                                     <p
                                         className={`mt-2 text-sm font-semibold ${!bookingsLoaded
-                                            ? "text-gray-600"
-                                            : selectedRoomAvailable
-                                                ? "text-green-700"
-                                                : "text-red-600"
+                                                ? "text-gray-600"
+                                                : selectedRoomAvailable
+                                                    ? "text-green-700"
+                                                    : "text-red-600"
                                             }`}
                                     >
                                         {!bookingsLoaded

@@ -13,7 +13,7 @@ import gallery4 from "../assets/hero4.jpeg";
 import gallery5 from "../assets/vision-bg.jpeg";
 import gallery6 from "../assets/deluxe-1.jpg";
 import gallery7 from "../assets/deluxe-2.jpg";
-import gallery8 from "../assets/deluxe-3.jpg";
+import gallery8 from "../assets/deluxe-3.jpeg";
 import gallery9 from "../assets/deluxe-4.jpeg";
 import gallery10 from "../assets/gallery1.jpg";
 import gallery11 from "../assets/gallery2.jpeg";

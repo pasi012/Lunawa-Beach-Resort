@@ -39,7 +39,7 @@ function Footer() {
               <div className="flex items-start justify-center gap-3 lg:justify-start">
                 <MapPin size={18} className="mt-[2px]" />
                 <span>
-                  120/1, A Lady soisa drive uyana, Moratuwa
+                  79 Puranappu Raja Mawatha, Moratuwa 10400
                 </span>
               </div>
             </div>

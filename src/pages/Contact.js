@@ -35,7 +35,7 @@ function Contact() {
                         {
                             icon: "fas fa-map-marker-alt",
                             title: "Address Line",
-                            text: "120/1, A Lady soisa drive uyana, Moratuwa, Sri Lanka"
+                            text: "79 Puranappu Raja Mawatha, Moratuwa 10400, Sri Lanka"
                         },
                         {
                             icon: "fas fa-phone",

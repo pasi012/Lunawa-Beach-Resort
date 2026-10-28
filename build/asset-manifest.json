@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.36f0cfbf.css",
-    "main.js": "/static/js/main.bf5af003.js",
+    "main.js": "/static/js/main.80f30249.js",
     "static/media/resort3.jpeg": "/static/media/resort3.189a36bf52526ec0793c.jpeg",
     "static/media/deluxe-1.jpg": "/static/media/deluxe-1.b9fdc76cf7746c1c4800.jpg",
     "static/media/deluxe-2.jpg": "/static/media/deluxe-2.dd5b0b96f03b73b75a55.jpg",
     "static/media/hero3.jpeg": "/static/media/hero3.e03206a2194500fa0cc9.jpeg",
+    "static/media/deluxe-3.jpeg": "/static/media/deluxe-3.2002ac90ceeed8de6f9d.jpeg",
     "static/media/kirala island.jpg": "/static/media/kirala island.44c16962a86b78aceda4.jpg",
     "static/media/hero.jpg": "/static/media/hero.cd9cab7780acc748fd02.jpg",
     "static/media/accomadation.jpg": "/static/media/accomadation.66e87a7bc0d59066173e.jpg",
-    "static/media/deluxe-3.jpg": "/static/media/deluxe-3.990fb79aa639ef508455.jpg",
     "static/media/deluxe-4.jpeg": "/static/media/deluxe-4.5a139588be6e80e6495d.jpeg",
     "static/media/bolgoda lake.jpg": "/static/media/bolgoda lake.7b96fe576c2e06aeed18.jpg",
     "static/media/LunawaBeachhero.jpg": "/static/media/LunawaBeachhero.9dfc58e06232ee6addaf.jpg",
@@ -31,10 +31,10 @@
     "static/media/whatsapp.png": "/static/media/whatsapp.64213343e98a002f1f0c.png",
     "index.html": "/index.html",
     "main.36f0cfbf.css.map": "/static/css/main.36f0cfbf.css.map",
-    "main.bf5af003.js.map": "/static/js/main.bf5af003.js.map"
+    "main.80f30249.js.map": "/static/js/main.80f30249.js.map"
   },
   "entrypoints": [
     "static/css/main.36f0cfbf.css",
-    "static/js/main.bf5af003.js"
+    "static/js/main.80f30249.js"
   ]
 }
