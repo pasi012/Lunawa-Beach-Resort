@@ -35,7 +35,7 @@ function Contact() {
                         {
                             icon: "fas fa-map-marker-alt",
                             title: "Address Line",
-                            text: "79 Puranappu Raja Mawatha, Moratuwa 10400, Sri Lanka"
+                            text: "120/1/A Lady de Soysa Drive, Moratuwa 10400, Western Province, Sri Lanka"
                         },
                         {
                             icon: "fas fa-phone",

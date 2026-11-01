@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.36f0cfbf.css",
-    "main.js": "/static/js/main.80f30249.js",
+    "main.js": "/static/js/main.c36c1cff.js",
     "static/media/resort3.jpeg": "/static/media/resort3.189a36bf52526ec0793c.jpeg",
     "static/media/deluxe-1.jpg": "/static/media/deluxe-1.b9fdc76cf7746c1c4800.jpg",
     "static/media/deluxe-2.jpg": "/static/media/deluxe-2.dd5b0b96f03b73b75a55.jpg",
@@ -31,10 +31,10 @@
     "static/media/whatsapp.png": "/static/media/whatsapp.64213343e98a002f1f0c.png",
     "index.html": "/index.html",
     "main.36f0cfbf.css.map": "/static/css/main.36f0cfbf.css.map",
-    "main.80f30249.js.map": "/static/js/main.80f30249.js.map"
+    "main.c36c1cff.js.map": "/static/js/main.c36c1cff.js.map"
   },
   "entrypoints": [
     "static/css/main.36f0cfbf.css",
-    "static/js/main.80f30249.js"
+    "static/js/main.c36c1cff.js"
   ]
 }
